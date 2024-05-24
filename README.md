@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I my name is Elijah 👋
 
 <!--
 **elijahelephant/elijahelephant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
