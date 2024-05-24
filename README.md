@@ -8,7 +8,7 @@ class Elijah {
 public:
     int age = 20;
     std::string traits[3] = { "gamer", "learner", "nerd" };
-    std::string hobbies[5] = { "Coding", "League of Legends", "Soccer", "Basketball, "Reading" };
+    std::string hobbies[5] = { "Coding", "League of Legends", "Soccer", "Basketball", "Reading" };
 };
 ```
 # :round_pushpin: What Am I Doing?
