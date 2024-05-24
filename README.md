@@ -27,3 +27,6 @@ public:
 
 # :bar_chart: Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahelephant)](https://github.com/anuraghazra/github-readme-stats)
+
+# :bar_chart: LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/williamsej26)
