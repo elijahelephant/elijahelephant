@@ -29,3 +29,7 @@ public:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahelephant)](https://github.com/anuraghazra/github-readme-stats)
 # :bar_chart: LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/williamsej26)
+
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahelephant&theme=blue_green)
+![Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elijahelephant&theme=blue_green)
+![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elijahelephant&theme=blue_green)
