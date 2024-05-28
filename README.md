@@ -30,6 +30,6 @@ public:
 # :bar_chart: LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/williamsej26)
 
-![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahelephant&theme=blue_green)
-![Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elijahelephant&theme=blue_green)
-![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elijahelephant&theme=blue_green)
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahelephant&theme=github_dark)
+![Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elijahelephant&theme=github_dark)
+![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elijahelephant&theme=github_darl)
