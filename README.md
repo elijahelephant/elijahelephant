@@ -26,10 +26,8 @@ public:
 [![Tools](https://skillicons.dev/icons?i=vscode,heroku,github&theme=dark)](https://skillicons.dev)
 
 # :bar_chart: Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahelephant)](https://github.com/anuraghazra/github-readme-stats)
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahelephant&theme=github_dark)
+![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elijahelephant&theme=github_dark)
 # :bar_chart: LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/williamsej26)
 
-![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahelephant&theme=github_dark)
-![Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elijahelephant&theme=github_dark)
-![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elijahelephant&theme=github_dark)
