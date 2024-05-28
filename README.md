@@ -26,6 +26,9 @@ public:
 [![Tools](https://skillicons.dev/icons?i=vscode,heroku,github&theme=dark)](https://skillicons.dev)
 
 # :bar_chart: Stats
+| Profile Details    | General Stats |
+| ------------------ | ----------- |
+|![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahelephant&theme=github_dark)          | ![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elijahelephant&theme=github_dark)     |
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahelephant&theme=github_dark)
 ![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elijahelephant&theme=github_dark)
 # :bar_chart: LeetCode
