@@ -7,7 +7,7 @@ My name is Elijah and I am a Computer Science student at UC Santa Barbara!
 class Elijah {
 public:
     int age = 20;
-    std::string traits[3] = { "gamer", "learner"};
+    std::string traits[2] = { "gamer", "learner"};
     std::string hobbies[5] = { "Coding", "League of Legends", "Soccer", "Basketball", "Reading" };
 };
 ```
