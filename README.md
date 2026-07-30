@@ -6,16 +6,14 @@ My name is Elijah and I am a Computer Science student at UC Santa Barbara!
 ```c++
 class Elijah {
 public:
-    int age = 20;
-    std::string traits[2] = { "gamer", "learner"};
-    std::string hobbies[5] = { "Coding", "League of Legends", "Soccer", "Basketball", "Reading" };
+    int age = 22;
+    std::string hobbies[5] = { "Coding", "League of Legends", "Soccer", "Climbing", "Reading" };
 };
 ```
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
   - Self-teaching AI / Machine Learning
   - Grinding LeetCode
-  - Interning for Sierra Nevada Coporation this summer
   - Working on various projects
 -----
 
